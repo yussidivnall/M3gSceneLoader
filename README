@@ -1,0 +1,4 @@
+Just a very simple M3G Scene viewer.
+Written in J2ME on NetBeans
+To load a scene just place the m3g in the res/ directory and change the m3gResource="/FILENAME.m3g" in M3gSceneLoaderCanvas.java
+-Yussi Divnal
